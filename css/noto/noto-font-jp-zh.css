@@ -1,3 +1,32 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Sans Japanese Regular'), local('NotoSansJapanese-Regular'), url(../../fonts/Noto/-F62fjtqLzI2JPCgQBnw7HFYyQgJ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Noto Sans Japanese Medium'), local('NotoSansJapanese-Medium'), url(../../fonts/Noto/-F6pfjtqLzI2JPCgQBnw7HFQMisa3Xdm.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Sans TC Regular'), local('NotoSansTC-Regular'), url(../../fonts/Noto/-nF7OG829Oofr2wohFbTp9i1OCEM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Noto Sans TC Medium'), local('NotoSansTC-Medium'), url(../../fonts/Noto/-nFkOG829Oofr2wohFbTp9i9ywIfDNdS.woff) format('woff');
+}
+
 /* [0] */
 @font-face {
     font-family: 'Roboto';
