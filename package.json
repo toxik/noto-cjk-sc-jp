@@ -1,0 +1,12 @@
+{
+  "name": "noto-cjk-sc-jp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "repository": "git@github.com:toxik/noto-cjk-sc-jp.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Georoceanu",
+  "license": "OFL-1.1"
+}
